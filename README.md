@@ -1,1 +1,2 @@
-# SAFI-ETHICAL-HACKER
+# Zero
+test zero
